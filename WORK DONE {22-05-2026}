@@ -1,0 +1,37 @@
+```
+📅 Date: 22 May 2026
+
+━━━━━━━━━━━━━━━━━━━━
+
+Day 17: Database Security & User Management
+
+Topic:
+CREATE USER, GRANT, REVOKE; roles; principle of least privilege
+
+Learning Objectives:
+
+• Understand how to create and manage user roles in MySQL  
+• Apply the principle of least privilege when assigning permissions  
+
+Activities / Deliverables:
+
+• Create 'intern_user' and 'admin_user' roles  
+• Assign minimum required privileges to each role  
+
+Tools / Tech:
+
+• MySQL 8  
+• CLI  
+
+━━━━━━━━━━━━━━━━━━━━
+
+Rules:
+
+Return plain text only  
+
+No JSON  
+
+No markdown  
+
+Preserve exact spacing  
+```

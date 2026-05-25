@@ -1,0 +1,39 @@
+📅 Date: 23 May 2026  
+
+━━━━━━━━━━━━━━━━━━━━━━  
+
+**Day 18: Backup & Recovery Basics**  
+
+**Topic:**  
+Introduction to database backup and recovery using `mysqldump` for full backups, restoring from dump files, and simulating disaster recovery scenarios.  
+
+**Learning Objectives:**  
+• Understand the importance of regular database backups.  
+• Learn how to perform a full backup of VolyoDB using `mysqldump`.  
+• Practice restoring a database from a backup file after simulating data loss.  
+
+**Activities / Deliverables:**  
+• Perform a full backup of VolyoDB using `mysqldump`.  
+• Simulate accidental table deletion and restore the database from the backup.  
+• Document the backup and recovery process for future reference.  
+
+**Important Concepts:**  
+• **Full Backup:** Captures the entire database state at a specific point in time.  
+• **Disaster Recovery:** Restoring data from backups to minimize downtime and data loss.  
+
+**SQL Syntax / Commands:**  
+• `mysqldump -u [username] -p [database_name] > backup_file.sql`  
+• `mysql -u [username] -p [database_name] < backup_file.sql`  
+
+**Real-world Use Cases:**  
+• Protecting against accidental data deletion or corruption.  
+• Ensuring business continuity during server failures or cyberattacks.  
+
+**Tools / Tech:**  
+• `mysqldump`  
+• MySQL CLI  
+
+**Summary:**  
+Today’s session covered the fundamentals of database backup and recovery, emphasizing the critical role of backups in data integrity. Hands-on practice with `mysqldump` and restoration procedures provided practical experience in disaster recovery scenarios.  
+
+━━━━━━━━━━━━━━━━━━━━━━
