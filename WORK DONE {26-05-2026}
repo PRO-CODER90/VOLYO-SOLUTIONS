@@ -1,0 +1,33 @@
+📅 **Date: 26 May 2026**
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+**Day 20: MySQL Administration with phpMyAdmin**
+
+**Topic:**
+Managing MySQL Databases using phpMyAdmin GUI
+
+**Learning Objectives:**
+
+* Understand the phpMyAdmin graphical interface for MySQL administration
+* Learn how to import and export databases using GUI tools
+* Practice managing database users and permissions through phpMyAdmin
+* Learn how to execute SQL queries directly from the interface
+* Compare GUI-based administration with Command Line Interface (CLI) operations
+
+**Activities / Deliverables:**
+
+* Install and configure phpMyAdmin using XAMPP
+* Perform database import and export operations
+* Recreate Day 17 user management tasks in phpMyAdmin
+* Perform backup and recovery tasks from Day 18 using GUI tools
+* Run SQL queries through the phpMyAdmin query editor
+* Compare advantages and limitations of GUI vs CLI administration
+* Document observations and workflow differences
+
+**Tools / Tech:**
+
+* phpMyAdmin
+* XAMPP
+
+━━━━━━━━━━━━━━━━━━━━━━
