@@ -1,131 +1,40 @@
-📅 Date: Day 31–40  
+📅 Date: 28 May 2026
 
-━━━━━━━━━━━━━━━━━━━━━━  
+━━━━━━━━━━━━━━━━━━━━━━
 
-Day 31–40: Introduction to NoSQL with MongoDB  
-
-Topic:  
-NoSQL databases introduce a non-relational approach to data storage, focusing on flexibility, scalability, and performance. MongoDB, a popular document-oriented NoSQL database, stores data in JSON-like BSON format, allowing for dynamic schemas and efficient data handling.  
-
-Learning Objectives:  
-• Understand the fundamentals of NoSQL databases.  
-• Explore MongoDB architecture and its components.  
-• Learn to perform CRUD operations in MongoDB.  
-
-Activities / Deliverables:  
-• Set up MongoDB and its environment.  
-• Create and manage collections and documents.  
-• Write queries to retrieve and manipulate data.  
-
-Important Concepts:  
-• Document-oriented storage.  
-• Scalability and horizontal partitioning.  
-• MongoDB indexing and aggregation.  
-
-SQL Syntax / Commands:  
-• `db.collection.insert()` for inserting documents.  
-• `db.collection.find()` for querying data.  
-• `db.collection.update()` for updating documents.  
-
-Real-world Use Cases:  
-• Storing unstructured data like social media posts.  
-• Real-time analytics for large datasets.  
-• Content management systems with varying data structures.  
-
-Tools / Technologies:  
-• MongoDB.  
-• MongoDB Compass (GUI tool).  
-• MongoDB Atlas (cloud database service).  
-
-Summary:  
-This segment introduced NoSQL databases, focusing on MongoDB's architecture and operations. Participants gained hands-on experience in managing collections and documents, preparing them for real-world applications.  
-
-━━━━━━━━━━━━━━━━━━━━━━  
-
-📅 Date: Day 41–50  
-
-━━━━━━━━━━━━━━━━━━━━━━  
-
-Day 41–50: Server-side with Python Flask & REST APIs  
+Day 22: PostgreSQL – DDL & DML Basics
 
 Topic:  
-Python Flask is a lightweight web framework used to build web applications and APIs. REST APIs enable communication between client and server using HTTP methods, facilitating data exchange in web and mobile applications.  
+Introduction to Data Definition Language (DDL) and Data Manipulation Language (DML) in PostgreSQL, focusing on creating tables, defining data types, and performing basic data manipulation operations.  
 
 Learning Objectives:  
-• Understand Flask framework basics.  
-• Design and develop RESTful APIs.  
-• Integrate APIs with databases for data handling.  
+• Understand DDL commands such as `CREATE TABLE` and their role in database design.  
+• Explore PostgreSQL data types like SERIAL, TEXT, and BOOLEAN.  
+• Apply DML commands to insert and manipulate data in tables.  
+• Compare PostgreSQL syntax with other database systems.  
 
 Activities / Deliverables:  
-• Set up a Flask environment.  
-• Create RESTful endpoints for CRUD operations.  
-• Integrate APIs with MongoDB.  
+• Recreate VolyoDB tables in PostgreSQL using DDL commands.  
+• Insert sample data into the tables using DML commands.  
+• Analyze and compare PostgreSQL syntax with VolyoDB syntax.  
 
 Important Concepts:  
-• REST architecture and HTTP methods.  
-• Flask routing and request handling.  
-• JSON data interchange format.  
+• DDL focuses on defining and altering database structures (e.g., tables, schemas).  
+• DML focuses on manipulating data within tables (e.g., inserting, updating, deleting).  
 
 SQL Syntax / Commands:  
-• `@app.route()` for defining endpoints.  
-• `request.get_json()` for handling JSON data.  
-• `jsonify()` for returning JSON responses.  
+• `CREATE TABLE table_name (column1 datatype, column2 datatype, ...);`  
+• `INSERT INTO table_name (column1, column2, ...) VALUES (value1, value2, ...);`  
 
 Real-world Use Cases:  
-• Building backend services for mobile apps.  
-• Creating APIs for IoT devices.  
-• Developing microservices for scalable applications.  
+• Designing and managing database schemas for applications.  
+• Migrating database tables from one system (e.g., VolyoDB) to PostgreSQL.  
 
-Tools / Technologies:  
-• Python Flask.  
-• Postman (API testing tool).  
-• MongoDB (for database integration).  
+Tools / Tech:  
+• PostgreSQL  
+• pgAdmin 4  
 
 Summary:  
-This module covered Flask framework and REST API development. Participants learned to design APIs, integrate them with databases, and handle HTTP requests, enhancing their backend development skills.  
-
-━━━━━━━━━━━━━━━━━━━━━━  
-
-📅 Date: Day 51–60  
-
-━━━━━━━━━━━━━━━━━━━━━━  
-
-Day 51–60: Capstone Project — Volyo Student Portal  
-
-Topic:  
-The capstone project involves developing a student portal using MongoDB for the database and Flask for the backend. The portal will manage student data, course enrollment, and academic records.  
-
-Learning Objectives:  
-• Apply MongoDB and Flask skills in a real-world project.  
-• Design and implement a functional student portal.  
-• Ensure data security and efficient database management.  
-
-Activities / Deliverables:  
-• Design the portal’s database schema.  
-• Develop REST APIs for student and course management.  
-• Test and deploy the completed portal.  
-
-Important Concepts:  
-• Database schema design for scalability.  
-• Secure API authentication mechanisms.  
-• Deployment strategies for web applications.  
-
-SQL Syntax / Commands:  
-• `db.createCollection()` for schema creation.  
-• `db.collection.insertMany()` for bulk data insertion.  
-• `db.collection.deleteOne()` for removing records.  
-
-Real-world Use Cases:  
-• Educational institutions managing student data.  
-• Online learning platforms with course enrollment features.  
-• Administrative tools for academic record keeping.  
-
-Tools / Technologies:  
-• MongoDB (database).  
-• Python Flask (backend).  
-• Docker (containerization for deployment).  
-
-Summary:  
-The capstone project consolidated MongoDB and Flask skills, enabling participants to build a functional student portal. The project emphasized database design, API development, and deployment, preparing interns for professional challenges.  
+Learned the basics of DDL and DML in PostgreSQL, including creating tables and inserting data. Explored PostgreSQL-specific data types compared other databases and practiced migrating tables from VolyoDB to PostgreSQL.  
 
 ━━━━━━━━━━━━━━━━━━━━━━
