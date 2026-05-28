@@ -1,40 +1,42 @@
-📅 Date: 28 May 2026
+📅 Date: 28 May 2026  
 
-━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━  
 
-Day 22: PostgreSQL – DDL & DML Basics
+**Day 21: Introduction to NoSQL and MongoDB**  
 
-Topic:  
-Introduction to Data Definition Language (DDL) and Data Manipulation Language (DML) in PostgreSQL, focusing on creating tables, defining data types, and performing basic data manipulation operations.  
+**Topic:**  
+NoSQL databases, particularly MongoDB, provide a flexible, schema-less approach to data storage, ideal for unstructured or semi-structured data. MongoDB stores data in JSON-like documents, enabling scalability and high performance for modern applications.  
 
-Learning Objectives:  
-• Understand DDL commands such as `CREATE TABLE` and their role in database design.  
-• Explore PostgreSQL data types like SERIAL, TEXT, and BOOLEAN.  
-• Apply DML commands to insert and manipulate data in tables.  
-• Compare PostgreSQL syntax with other database systems.  
+**Learning Objectives:**  
+• Understand the fundamentals of NoSQL databases and their advantages over relational databases.  
+• Learn MongoDB’s document-oriented architecture and key features.  
+• Perform basic CRUD operations in MongoDB.  
 
-Activities / Deliverables:  
-• Recreate VolyoDB tables in PostgreSQL using DDL commands.  
-• Insert sample data into the tables using DML commands.  
-• Analyze and compare PostgreSQL syntax with VolyoDB syntax.  
+**Activities / Deliverables:**  
+• Install MongoDB and set up a local development environment.  
+• Create a sample database and collections using MongoDB Shell.  
+• Practice inserting, querying, updating, and deleting documents.  
 
-Important Concepts:  
-• DDL focuses on defining and altering database structures (e.g., tables, schemas).  
-• DML focuses on manipulating data within tables (e.g., inserting, updating, deleting).  
+**Important Concepts:**  
+• **Document Storage:** Data is stored as BSON (Binary JSON) documents.  
+• **Collections:** Groupings of documents (analogous to tables in SQL).  
+• **Scalability:** Horizontal scaling via sharding.  
 
-SQL Syntax / Commands:  
-• `CREATE TABLE table_name (column1 datatype, column2 datatype, ...);`  
-• `INSERT INTO table_name (column1, column2, ...) VALUES (value1, value2, ...);`  
+**SQL Syntax / Commands:**  
+• `db.createCollection("collectionName")` – Creates a new collection.  
+• `db.collectionName.insert({key: value})` – Inserts a document.  
+• `db.collectionName.find({query})` – Retrieves documents matching a query.  
 
-Real-world Use Cases:  
-• Designing and managing database schemas for applications.  
-• Migrating database tables from one system (e.g., VolyoDB) to PostgreSQL.  
+**Real-world Use Cases:**  
+• Storing user-generated content (e.g., social media posts, comments).  
+• Handling large-scale IoT data with varying schemas.  
 
-Tools / Tech:  
-• PostgreSQL  
-• pgAdmin 4  
+**Tools / Tech:**  
+• MongoDB Server  
+• MongoDB Compass (GUI tool)  
+• MongoDB Shell (CLI)  
 
-Summary:  
-Learned the basics of DDL and DML in PostgreSQL, including creating tables and inserting data. Explored PostgreSQL-specific data types compared other databases and practiced migrating tables from VolyoDB to PostgreSQL.  
+**Summary:**  
+Explored NoSQL principles and MongoDB’s document-based model. Practiced foundational CRUD operations and understood its real-world applications for flexible data management.  
 
 ━━━━━━━━━━━━━━━━━━━━━━
