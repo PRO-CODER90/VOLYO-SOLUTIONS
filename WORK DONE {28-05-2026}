@@ -1,41 +1,46 @@
-📅 Date: 28 May 2026  
+📅 Date: 28 May 2026
 
-━━━━━━━━━━━━━━━━━━━━━━  
+━━━━━━━━━━━━━━━━━━━━━━
 
-**Day 22: PostgreSQL – DDL & DML Basics**  
+Day 22: PostgreSQL – DDL & DML Basics
 
-**Topic:**  
-Introduction to PostgreSQL’s Data Definition Language (DDL) and Data Manipulation Language (DML) concepts. Focuses on creating tables, understanding PostgreSQL data types (e.g., SERIAL, TEXT, BOOLEAN), and performing basic DML operations. Also covers recreating VolyoDB tables in PostgreSQL and inserting sample data.  
+Topic:
+Today’s session focused on foundational PostgreSQL operations, including Data Definition Language (DDL) commands for creating and managing database structures and Data Manipulation Language (DML) commands for handling data. We explored data types specific to PostgreSQL, such as SERIAL, TEXT, and BOOLEAN, and recreated VolyoDB tables in PostgreSQL to understand syntax differences.
 
-**Learning Objectives:**  
-• Understand PostgreSQL’s DDL commands for table creation.  
-• Learn PostgreSQL data types and their usage.  
-• Perform basic DML operations (INSERT, SELECT).  
-• Recreate VolyoDB tables in PostgreSQL and compare syntax differences.  
+Learning Objectives:
 
-**Activities / Deliverables:**  
-• Create PostgreSQL tables using appropriate data types.  
-• Insert sample data into the created tables.  
-• Recreate VolyoDB table structures in PostgreSQL.  
-• Compare PostgreSQL and VolyoDB syntax for table creation and data insertion.  
+• Understand PostgreSQL DDL commands to create and manage tables.
+• Learn PostgreSQL-specific data types and their usage.
+• Practice basic DML operations for inserting and managing data.
 
-**Important Concepts:**  
-• DDL: Used for defining database structures (e.g., CREATE TABLE).  
-• DML: Used for manipulating data within tables (e.g., INSERT, SELECT).  
+Activities / Deliverables:
 
-**SQL Syntax / Commands:**  
-• `CREATE TABLE table_name (column_name data_type, ...);`  
-• `INSERT INTO table_name (column1, column2) VALUES (value1, value2);`  
+• Recreate VolyoDB tables in PostgreSQL.
+• Insert sample data into the recreated tables.
+• Compare PostgreSQL syntax with other database systems.
 
-**Real-world Use Cases:**  
-• Designing and creating database tables for applications.  
-• Migrating tables from one database system (e.g., VolyoDB) to another (e.g., PostgreSQL).  
+Important Concepts:
 
-**Tools / Tech:**  
-• PostgreSQL  
-• pgAdmin 4  
+• DDL commands define database structures (e.g., CREATE TABLE).
+• DML commands manipulate data (e.g., INSERT, UPDATE, DELETE).
+• PostgreSQL-specific data types like SERIAL (auto-increment) and BOOLEAN.
 
-**Summary:**  
-Learned the fundamentals of PostgreSQL DDL and DML, including table creation, data types, and basic data manipulation. Practiced recreating VolyoDB tables in PostgreSQL and compared syntax differences.  
+SQL Syntax / Commands:
+
+• CREATE TABLE table_name (column_name SERIAL PRIMARY KEY, column_name TEXT, column_name BOOLEAN);
+• INSERT INTO table_name (column1, column2) VALUES (value1, value2);
+
+Real-world Use Cases:
+
+• Building and managing relational databases for applications.
+• Migrating databases from other systems to PostgreSQL.
+
+Tools / Tech:
+
+• PostgreSQL
+• pgAdmin 4
+
+Summary:
+Today’s session provided hands-on experience with PostgreSQL DDL and DML commands, emphasizing data types and syntax differences. We recreated VolyoDB tables and performed basic data operations, reinforcing foundational database management skills.
 
 ━━━━━━━━━━━━━━━━━━━━━━
