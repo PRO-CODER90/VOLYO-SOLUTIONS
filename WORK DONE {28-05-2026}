@@ -5,38 +5,38 @@
 **Day 21: Introduction to NoSQL and MongoDB**  
 
 **Topic:**  
-NoSQL databases, particularly MongoDB, provide a flexible, schema-less approach to data storage, ideal for unstructured or semi-structured data. MongoDB stores data in JSON-like documents, enabling scalability and high performance for modern applications.  
+Introduction to NoSQL databases, focusing on MongoDB as a document-oriented database. Explanation of schema flexibility, scalability, and use cases where NoSQL outperforms traditional relational databases.  
 
 **Learning Objectives:**  
-• Understand the fundamentals of NoSQL databases and their advantages over relational databases.  
-• Learn MongoDB’s document-oriented architecture and key features.  
-• Perform basic CRUD operations in MongoDB.  
+• Understand the fundamentals of NoSQL databases and their advantages.  
+• Learn the basic structure and operations of MongoDB.  
+• Compare NoSQL and SQL databases for different scenarios.  
 
 **Activities / Deliverables:**  
-• Install MongoDB and set up a local development environment.  
-• Create a sample database and collections using MongoDB Shell.  
-• Practice inserting, querying, updating, and deleting documents.  
+• Install MongoDB and set up a local instance.  
+• Perform basic CRUD operations using MongoDB Shell.  
+• Create a simple document-based database for a sample application.  
 
 **Important Concepts:**  
-• **Document Storage:** Data is stored as BSON (Binary JSON) documents.  
-• **Collections:** Groupings of documents (analogous to tables in SQL).  
-• **Scalability:** Horizontal scaling via sharding.  
+• Document-oriented storage (BSON format).  
+• Horizontal scalability and sharding.  
+• Dynamic schema vs. rigid schema in SQL.  
 
 **SQL Syntax / Commands:**  
-• `db.createCollection("collectionName")` – Creates a new collection.  
-• `db.collectionName.insert({key: value})` – Inserts a document.  
-• `db.collectionName.find({query})` – Retrieves documents matching a query.  
+• `db.collection.insertOne({document})` – Inserts a single document.  
+• `db.collection.find({query})` – Retrieves documents matching criteria.  
+• `db.collection.updateOne({filter}, {update})` – Updates a document.  
 
 **Real-world Use Cases:**  
-• Storing user-generated content (e.g., social media posts, comments).  
-• Handling large-scale IoT data with varying schemas.  
+• Handling large-scale, unstructured data (e.g., social media posts).  
+• Real-time analytics and high-velocity data logging.  
 
 **Tools / Tech:**  
-• MongoDB Server  
-• MongoDB Compass (GUI tool)  
-• MongoDB Shell (CLI)  
+• MongoDB Community Server  
+• MongoDB Compass (GUI)  
+• MongoDB Shell  
 
 **Summary:**  
-Explored NoSQL principles and MongoDB’s document-based model. Practiced foundational CRUD operations and understood its real-world applications for flexible data management.  
+Explored NoSQL fundamentals and MongoDB’s document-based approach, practiced basic operations, and compared use cases with SQL databases.  
 
 ━━━━━━━━━━━━━━━━━━━━━━
