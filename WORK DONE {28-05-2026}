@@ -1,119 +1,131 @@
-Here is your requested internship notes format based on the curriculum:  
+📅 Date: Day 31–40  
 
 ━━━━━━━━━━━━━━━━━━━━━━  
 
-📅 **Date: 28 May 2026**  
+Day 31–40: Introduction to NoSQL with MongoDB  
 
-### **Day 31-40: Introduction to NoSQL with MongoDB**  
+Topic:  
+NoSQL databases introduce a non-relational approach to data storage, focusing on flexibility, scalability, and performance. MongoDB, a popular document-oriented NoSQL database, stores data in JSON-like BSON format, allowing for dynamic schemas and efficient data handling.  
 
-**Topic:**  
-Introduction to NoSQL databases, focusing on MongoDB as a document-based database system.  
+Learning Objectives:  
+• Understand the fundamentals of NoSQL databases.  
+• Explore MongoDB architecture and its components.  
+• Learn to perform CRUD operations in MongoDB.  
 
-**Learning Objectives:**  
-• Understand the differences between SQL and NoSQL databases.  
-• Learn MongoDB document structure and CRUD operations.  
-• Explore indexing, aggregation, and replication in MongoDB.  
+Activities / Deliverables:  
+• Set up MongoDB and its environment.  
+• Create and manage collections and documents.  
+• Write queries to retrieve and manipulate data.  
 
-**Activities / Deliverables:**  
-• Install MongoDB and connect using MongoDB Shell (mongosh).  
-• Perform CRUD operations on sample collections.  
-• Create an aggregation pipeline for data analysis.  
+Important Concepts:  
+• Document-oriented storage.  
+• Scalability and horizontal partitioning.  
+• MongoDB indexing and aggregation.  
 
-**Important Concepts:**  
-• Document-oriented storage (JSON/BSON).  
-• Horizontal scaling (sharding).  
+SQL Syntax / Commands:  
+• `db.collection.insert()` for inserting documents.  
+• `db.collection.find()` for querying data.  
+• `db.collection.update()` for updating documents.  
 
-**SQL Syntax / Commands:**  
-• `db.collection.insertOne()` – Insert a document.  
-• `db.collection.find()` – Query documents.  
-• `db.collection.createIndex()` – Optimize queries.  
+Real-world Use Cases:  
+• Storing unstructured data like social media posts.  
+• Real-time analytics for large datasets.  
+• Content management systems with varying data structures.  
 
-**Real-world Use Cases:**  
-• Storing user-generated content (e.g., social media posts).  
-• Handling large-scale IoT sensor data.  
+Tools / Technologies:  
+• MongoDB.  
+• MongoDB Compass (GUI tool).  
+• MongoDB Atlas (cloud database service).  
 
-**Tools / Tech:**  
-• MongoDB Atlas (Cloud Database).  
-• MongoDB Compass (GUI).  
-
-**Summary:**  
-Learned MongoDB basics, including document structure, queries, and optimization techniques for scalable NoSQL applications.  
-
-━━━━━━━━━━━━━━━━━━━━━━  
-
-📅 **Date: 28 May 2026**  
-
-### **Day 41-50: Server-side with Python Flask & REST APIs**  
-
-**Topic:**  
-Building RESTful APIs with Python Flask for database interactions.  
-
-**Learning Objectives:**  
-• Design RESTful endpoints for database operations.  
-• Integrate Flask with MongoDB using PyMongo.  
-• Implement authentication and error handling.  
-
-**Activities / Deliverables:**  
-• Develop a Flask API with CRUD functionalities.  
-• Secure API endpoints using JWT tokens.  
-• Test API endpoints with Postman.  
-
-**Important Concepts:**  
-• REST principles (GET, POST, PUT, DELETE).  
-• ORM vs. ODM (Object Data Modeling).  
-
-**SQL Syntax / Commands:**  
-• N/A (Using PyMongo: `db.collection.insert_one()`, `db.collection.find()`).  
-
-**Real-world Use Cases:**  
-• Backend for mobile/web apps.  
-• Microservices architecture.  
-
-**Tools / Tech:**  
-• Flask (Python Framework).  
-• Postman (API Testing).  
-• PyMongo (MongoDB Driver).  
-
-**Summary:**  
-Built a Flask API to interact with MongoDB, applying REST principles for scalable backend development.  
+Summary:  
+This segment introduced NoSQL databases, focusing on MongoDB's architecture and operations. Participants gained hands-on experience in managing collections and documents, preparing them for real-world applications.  
 
 ━━━━━━━━━━━━━━━━━━━━━━  
 
-📅 **Date: 28 May 2026**  
+📅 Date: Day 41–50  
 
-### **Day 51-60: Capstone Project – Volyo Student Portal**  
+━━━━━━━━━━━━━━━━━━━━━━  
 
-**Topic:**  
-End-to-end database design and API integration for a student portal.  
+Day 41–50: Server-side with Python Flask & REST APIs  
 
-**Learning Objectives:**  
-• Design a relational (SQL) or NoSQL database schema.  
-• Develop backend APIs for portal functionalities.  
-• Deploy and optimize database performance.  
+Topic:  
+Python Flask is a lightweight web framework used to build web applications and APIs. REST APIs enable communication between client and server using HTTP methods, facilitating data exchange in web and mobile applications.  
 
-**Activities / Deliverables:**  
-• Create a database schema (MySQL/MongoDB).  
-• Build APIs for student registration, course management, and analytics.  
-• Deploy using Docker & AWS/GCP.  
+Learning Objectives:  
+• Understand Flask framework basics.  
+• Design and develop RESTful APIs.  
+• Integrate APIs with databases for data handling.  
 
-**Important Concepts:**  
-• Database normalization (SQL) vs. denormalization (NoSQL).  
-• Query optimization and caching.  
+Activities / Deliverables:  
+• Set up a Flask environment.  
+• Create RESTful endpoints for CRUD operations.  
+• Integrate APIs with MongoDB.  
 
-**SQL Syntax / Commands:**  
-• `CREATE TABLE`, `JOIN` (for SQL variant).  
-• Aggregation pipelines (for MongoDB).  
+Important Concepts:  
+• REST architecture and HTTP methods.  
+• Flask routing and request handling.  
+• JSON data interchange format.  
 
-**Real-world Use Cases:**  
-• University management systems.  
-• E-learning platforms.  
+SQL Syntax / Commands:  
+• `@app.route()` for defining endpoints.  
+• `request.get_json()` for handling JSON data.  
+• `jsonify()` for returning JSON responses.  
 
-**Tools / Tech:**  
-• MySQL / MongoDB.  
-• Docker (Containerization).  
-• Cloud Deployment (AWS/GCP).  
+Real-world Use Cases:  
+• Building backend services for mobile apps.  
+• Creating APIs for IoT devices.  
+• Developing microservices for scalable applications.  
 
-**Summary:**  
-Developed a scalable student portal by integrating database design with API development and deployment.  
+Tools / Technologies:  
+• Python Flask.  
+• Postman (API testing tool).  
+• MongoDB (for database integration).  
+
+Summary:  
+This module covered Flask framework and REST API development. Participants learned to design APIs, integrate them with databases, and handle HTTP requests, enhancing their backend development skills.  
+
+━━━━━━━━━━━━━━━━━━━━━━  
+
+📅 Date: Day 51–60  
+
+━━━━━━━━━━━━━━━━━━━━━━  
+
+Day 51–60: Capstone Project — Volyo Student Portal  
+
+Topic:  
+The capstone project involves developing a student portal using MongoDB for the database and Flask for the backend. The portal will manage student data, course enrollment, and academic records.  
+
+Learning Objectives:  
+• Apply MongoDB and Flask skills in a real-world project.  
+• Design and implement a functional student portal.  
+• Ensure data security and efficient database management.  
+
+Activities / Deliverables:  
+• Design the portal’s database schema.  
+• Develop REST APIs for student and course management.  
+• Test and deploy the completed portal.  
+
+Important Concepts:  
+• Database schema design for scalability.  
+• Secure API authentication mechanisms.  
+• Deployment strategies for web applications.  
+
+SQL Syntax / Commands:  
+• `db.createCollection()` for schema creation.  
+• `db.collection.insertMany()` for bulk data insertion.  
+• `db.collection.deleteOne()` for removing records.  
+
+Real-world Use Cases:  
+• Educational institutions managing student data.  
+• Online learning platforms with course enrollment features.  
+• Administrative tools for academic record keeping.  
+
+Tools / Technologies:  
+• MongoDB (database).  
+• Python Flask (backend).  
+• Docker (containerization for deployment).  
+
+Summary:  
+The capstone project consolidated MongoDB and Flask skills, enabling participants to build a functional student portal. The project emphasized database design, API development, and deployment, preparing interns for professional challenges.  
 
 ━━━━━━━━━━━━━━━━━━━━━━
