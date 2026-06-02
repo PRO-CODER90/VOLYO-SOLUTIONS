@@ -1,0 +1,48 @@
+Here are your formatted internship notes:
+
+📅 Date: 02 June 2026  
+
+━━━━━━━━━━━━━━━━━━━━  
+
+**Day 25: MySQL vs PostgreSQL Comparison**  
+
+**Topic:**  
+Comparison of MySQL and PostgreSQL databases, focusing on features, performance, licensing, and community support.  
+
+**Learning Objectives:**  
+
+• Understand key differences in data types between MySQL and PostgreSQL  
+• Compare performance benchmarks for common operations  
+• Evaluate use cases and licensing models for each database  
+
+**Activities / Deliverables:**  
+
+• Research and document feature comparisons in a table format  
+• Prepare a Microsoft Word report summarizing findings  
+• Present comparison results to mentor for feedback  
+
+**Important Concepts:**  
+
+• MySQL prioritizes speed and simplicity, while PostgreSQL emphasizes advanced features and standards compliance  
+• PostgreSQL supports more complex data types (e.g., JSON, arrays) natively  
+• Licensing: MySQL uses GPL, PostgreSQL uses permissive MIT-style license  
+
+**SQL Syntax / Commands:**  
+
+• `CREATE DATABASE` (similar syntax, but PostgreSQL supports additional parameters)  
+• `SELECT` (PostgreSQL allows more advanced window functions)  
+
+**Real-world Use Cases:**  
+
+• MySQL: Web applications, high-traffic read-heavy workloads (e.g., WordPress)  
+• PostgreSQL: Complex analytical queries, geospatial data, enterprise applications  
+
+**Tools / Tech:**  
+
+• MySQL Workbench  
+• pgAdmin (PostgreSQL)  
+
+**Summary:**  
+Today's research highlighted fundamental differences between MySQL and PostgreSQL, including their design philosophies, feature sets, and optimal use cases. MySQL excels in read-heavy web applications, while PostgreSQL offers superior functionality for complex data operations.  
+
+━━━━━━━━━━━━━━━━━━━━
