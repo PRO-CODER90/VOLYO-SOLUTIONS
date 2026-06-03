@@ -1,0 +1,50 @@
+Here are the professional internship notes based on your requirements:
+
+---
+
+📅 Date: 03 June 2026  
+
+━━━━━━━━━━━━━━━━━━━━  
+
+**Day 26: Introduction to SQLite**  
+
+**Topic:**  
+SQLite is a lightweight, file-based, embedded relational database management system. Unlike traditional databases, it doesn’t require a separate server process and stores the entire database in a single file. It is ideal for small-scale applications, mobile apps, and embedded systems.  
+
+**Learning Objectives:**  
+
+• Understand SQLite as an embedded database and its advantages.  
+• Learn when to use SQLite vs. other database systems.  
+• Create and manage a simple SQLite database using DB Browser for SQLite.  
+
+**Activities / Deliverables:**  
+
+• Install DB Browser for SQLite.  
+• Design and create a simple ToDo app database.  
+• Execute basic SQL queries to interact with the database.  
+
+**Important Concepts:**  
+
+• **Embedded Database:** Runs within the application, no separate server needed.  
+• **File-Based Storage:** Entire database stored in a single cross-platform file.  
+
+**SQL Syntax / Commands:**  
+
+• `CREATE TABLE tasks (id INTEGER PRIMARY KEY, task TEXT, completed BOOLEAN);`  
+• `INSERT INTO tasks (task, completed) VALUES ("Learn SQLite", 0);`  
+• `SELECT * FROM tasks;`  
+
+**Real-world Use Cases:**  
+
+• Mobile applications (Android, iOS) for local data storage.  
+• Embedded systems like IoT devices due to low resource usage.  
+
+**Tools / Tech:**  
+
+• **SQLite 3:** The database engine.  
+• **DB Browser for SQLite:** GUI tool for managing SQLite databases.  
+
+**Summary:**  
+SQLite is a powerful, lightweight, and serverless database ideal for small-scale or embedded applications. Today, we explored its core concepts, created a simple ToDo app database, and practiced basic SQL commands using DB Browser for SQLite.  
+
+━━━━━━━━━━━━━━━━━━━━
