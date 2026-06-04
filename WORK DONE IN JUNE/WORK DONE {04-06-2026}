@@ -1,0 +1,45 @@
+Here are the formatted notes as requested:
+
+📅 Date: 04 June 2026  
+
+━━━━━━━━━━━━━━━━━━━━  
+
+**Day 27: SQLite CRUD & Python Integration**  
+
+**Topic:**  
+SQLite CRUD (Create, Read, Update, Delete) operations and integrating SQLite with Python using the `sqlite3` module.  
+
+**Learning Objectives:**  
+• Understand SQLite CRUD operations  
+• Learn to connect SQLite with Python  
+• Write Python scripts to create tables, insert, and query data  
+
+**Activities / Deliverables:**  
+• Execute SQLite CRUD operations via Python  
+• Develop a Python script to interact with an SQLite database  
+• Practice querying and manipulating data  
+
+**Important Concepts:**  
+• SQLite as a lightweight, serverless database  
+• Parameterized queries for security  
+
+**SQL Syntax / Commands:**  
+• `CREATE TABLE table_name (column1 datatype, ...)`  
+• `INSERT INTO table_name VALUES (value1, ...)`  
+• `SELECT * FROM table_name`  
+• `UPDATE table_name SET column = value WHERE condition`  
+• `DELETE FROM table_name WHERE condition`  
+
+**Real-world Use Cases:**  
+• Local data storage for mobile apps  
+• Prototyping database-driven applications  
+
+**Tools / Tech:**  
+• SQLite  
+• Python 3  
+• VS Code  
+
+**Summary:**  
+Learned SQLite CRUD operations and Python integration using `sqlite3`. Practiced creating tables, inserting, updating, and querying data via Python scripts.  
+
+━━━━━━━━━━━━━━━━━━━━
