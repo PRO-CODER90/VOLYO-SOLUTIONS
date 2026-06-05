@@ -5,41 +5,40 @@
 **Day 28: Mini Project – Library DB (MySQL)**  
 
 **Topic:**  
-Design and implement a fully normalized Library Database (Library DB) using MySQL. Apply ER modeling, normalization techniques, and SQL skills to create a functional system for managing books, members, issues, and returns.  
+Designing and implementing a fully normalized Library Database using MySQL. The project involves applying ER modeling, normalization principles, and SQL skills to create a functional database for managing books, members, book issues, and returns.  
 
 **Learning Objectives:**  
-• Design an Entity-Relationship (ER) model for a library management system.  
-• Apply normalization (1NF, 2NF, 3NF) to eliminate data redundancy.  
-• Implement SQL queries for CRUD operations on library data.  
-• Integrate MySQL Workbench and Draw.io for database design and visualization.  
+• Apply ER design principles to model a Library DB.  
+• Implement normalization (1NF, 2NF, 3NF) to eliminate redundancy.  
+• Write SQL queries for CRUD operations on library entities.  
+• Integrate MySQL Workbench and Draw.io for design and implementation.  
 
 **Activities / Deliverables:**  
-• Create an ER diagram using Draw.io to represent library entities and relationships.  
-• Build a normalized MySQL database schema (tables for books, members, issues, returns).  
-• Write SQL scripts for table creation, data insertion, and querying (e.g., book availability, member dues).  
-• Demonstrate functional queries for issuing/returning books and generating reports.  
+• Design an ER diagram for the Library DB using Draw.io.  
+• Create normalized tables (books, members, issues, returns) in MySQL.  
+• Write SQL scripts for data insertion, updates, and retrieval.  
+• Validate database integrity with sample queries.  
 
 **Important Concepts:**  
-• **ER Modeling:** Identifying entities (Book, Member, Issue, Return) and relationships (e.g., a member issues multiple books).  
-• **Normalization:** Ensuring tables adhere to 3NF to avoid update anomalies.  
-• **Referential Integrity:** Using foreign keys to enforce relationships (e.g., `issue.book_id` references `book.id`).  
+• Entity-Relationship (ER) modeling for database design.  
+• Normalization (1NF, 2NF, 3NF) to ensure data consistency.  
+• Foreign key constraints for relational integrity.  
 
 **SQL Syntax / Commands:**  
-• `CREATE TABLE` with constraints (PRIMARY KEY, FOREIGN KEY).  
-• `INSERT INTO` to populate tables with sample data.  
-• `SELECT` with JOINs to retrieve related data (e.g., books issued by a member).  
-• `UPDATE`/`DELETE` with WHERE clauses for managing records.  
+• `CREATE TABLE` with primary/foreign keys.  
+• `INSERT INTO` for populating tables.  
+• `JOIN` queries to retrieve related data (e.g., books issued by a member).  
 
 **Real-world Use Cases:**  
-• Tracking book inventory and member borrowing history in libraries.  
-• Automating overdue fine calculations and generating reports for librarians.  
+• Tracking book inventory and member transactions in libraries.  
+• Automating overdue fine calculations for returned books.  
 
 **Tools / Tech:**  
-• MySQL 8 (RDBMS for database creation and querying).  
-• MySQL Workbench (schema design and SQL execution).  
-• Draw.io (ER diagram visualization).  
+• MySQL 8.0  
+• MySQL Workbench  
+• Draw.io (for ER diagrams)  
 
 **Summary:**  
-Applied end-to-end database development skills by designing a normalized Library DB. Combined ER modeling, normalization, and SQL to build a functional system for managing library operations. Used MySQL Workbench and Draw.io for implementation and documentation.  
+Today’s mini-project consolidated ER design, normalization, and SQL skills by building a Library DB. The hands-on exercise emphasized real-world database development, from diagramming to query execution.  
 
 ━━━━━━━━━━━━━━━━━━━━━━
