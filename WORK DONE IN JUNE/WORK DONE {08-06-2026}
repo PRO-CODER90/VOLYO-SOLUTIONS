@@ -1,0 +1,54 @@
+Here are the formatted internship notes as requested:
+
+---
+
+📅 Date: 08 June 2026  
+
+━━━━━━━━━━━━━━━━━━━━  
+
+**Day 29: Mini Project – Student Records DB**  
+
+**Topic:**  
+Design and implement a Student Records database using MySQL 8, focusing on schema design, triggers, views, and stored procedures.  
+
+**Learning Objectives:**  
+
+• Reinforce schema design principles for a student records system  
+• Implement triggers to automate grade calculations  
+• Create views for simplified data access (e.g., marks)  
+• Develop stored procedures for enrollment management  
+
+**Activities / Deliverables:**  
+
+• Design and build a Student Records database schema  
+• Create an enrollment stored procedure (`enrollment_SP`)  
+• Develop a marks view for easy student performance tracking  
+• Implement a grade trigger to auto-calculate grades based on marks  
+
+**Important Concepts:**  
+
+• Schema normalization for efficient data storage  
+• Trigger automation for business logic (e.g., grading)  
+• Views for abstracting complex queries (e.g., marks aggregation)  
+
+**SQL Syntax / Commands:**  
+
+• `CREATE TRIGGER grade_trigger AFTER INSERT ON marks FOR EACH ROW ...`  
+• `CREATE VIEW marks_view AS SELECT student_id, subject, score FROM ...`  
+• `CALL enrollment_SP(student_id, course_id, enrollment_date);`  
+
+**Real-world Use Cases:**  
+
+• Universities automating student grade management  
+• Schools tracking enrollment and academic performance  
+• EdTech platforms generating reports via views  
+
+**Tools / Tech:**  
+
+• MySQL 8.0  
+• MySQL Workbench for schema design and query execution  
+
+**Summary:**  
+Today’s project reinforced core DBA skills by building a functional Student Records DB. Key takeaways include schema optimization, trigger-driven automation, and simplifying data access with views and stored procedures.  
+
+━━━━━━━━━━━━━━━━━━━━
