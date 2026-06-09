@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📅 Date: 06 June 2026  
 
 ━━━━━━━━━━━━━━━━━━━━━━  
@@ -41,4 +42,49 @@ Designing and implementing a fully normalized Library Database using MySQL. The 
 **Summary:**  
 Today’s mini-project consolidated ER design, normalization, and SQL skills by building a Library DB. The hands-on exercise emphasized real-world database development, from diagramming to query execution.  
 
+=======
+📅 Date: 06 June 2026  
+
+━━━━━━━━━━━━━━━━━━━━━━  
+
+**Day 29: Mini Project – Student Records DB **  
+
+**Topic:**  
+Designing and implementing a fully normalized Library Database using MySQL. The project involves applying ER modeling, normalization principles, and SQL skills to create a functional database for managing books, members, book issues, and returns.  
+
+**Learning Objectives:**  
+• Apply ER design principles to model a Library DB.  
+• Implement normalization (1NF, 2NF, 3NF) to eliminate redundancy.  
+• Write SQL queries for CRUD operations on library entities.  
+• Integrate MySQL Workbench and Draw.io for design and implementation.  
+
+**Activities / Deliverables:**  
+• Design an ER diagram for the Library DB using Draw.io.  
+• Create normalized tables (books, members, issues, returns) in MySQL.  
+• Write SQL scripts for data insertion, updates, and retrieval.  
+• Validate database integrity with sample queries.  
+
+**Important Concepts:**  
+• Entity-Relationship (ER) modeling for database design.  
+• Normalization (1NF, 2NF, 3NF) to ensure data consistency.  
+• Foreign key constraints for relational integrity.  
+
+**SQL Syntax / Commands:**  
+• `CREATE TABLE` with primary/foreign keys.  
+• `INSERT INTO` for populating tables.  
+• `JOIN` queries to retrieve related data (e.g., books issued by a member).  
+
+**Real-world Use Cases:**  
+• Tracking book inventory and member transactions in libraries.  
+• Automating overdue fine calculations for returned books.  
+
+**Tools / Tech:**  
+• MySQL 8.0  
+• MySQL Workbench  
+• Draw.io (for ER diagrams)  
+
+**Summary:**  
+Today’s mini-project consolidated ER design, normalization, and SQL skills by building a Library DB. The hands-on exercise emphasized real-world database development, from diagramming to query execution.  
+
+>>>>>>> 6443068f331365ef4a88f42c1bfe1990ef27e223
 ━━━━━━━━━━━━━━━━━━━━━━

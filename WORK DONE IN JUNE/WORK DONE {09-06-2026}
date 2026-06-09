@@ -1,44 +1,38 @@
-### 📅 Date: 09 June 2026  
+📅 Date: 09 June 2026  
 
-━━━━━━━━━━━━━━━━━━━━  
+━━━━━━━━━━━━━━━━━━━━━━  
 
 **Day 31: Introduction to NoSQL**  
 
 **Topic:**  
-Introduction to NoSQL databases, their types (document, key-value, column-family, graph), and why they are used as alternatives to relational databases in modern applications.  
+Introduction to NoSQL databases, exploring why NoSQL exists, its types (document, key-value, column-family, graph), and its practical use cases compared to traditional relational databases.  
 
 **Learning Objectives:**  
-- Understand the limitations of RDBMS that led to NoSQL adoption.  
-- Learn the four main types of NoSQL databases and their use cases.  
-- Compare NoSQL and RDBMS in terms of scalability, flexibility, and performance.  
+• Understand the need for NoSQL in modern applications.  
+• Differentiate between RDBMS and NoSQL databases.  
+• Identify real-world scenarios where NoSQL is preferred.  
 
 **Activities / Deliverables:**  
-- Research and draw a comparison chart (RDBMS vs. NoSQL types) using Draw.io.  
-- Discuss real-world examples where NoSQL databases are preferred.  
-- Present findings in a group discussion.  
+• Draw a comparison chart: RDBMS vs 4 NoSQL types.  
+• Discuss real-world examples of NoSQL implementations.  
+• Research and present use cases for each NoSQL type.  
 
 **Important Concepts:**  
-- **Schema-less design:** NoSQL databases allow dynamic schema changes.  
-- **Horizontal scalability:** NoSQL databases scale out easily across distributed systems.  
-- **CAP Theorem:** Trade-offs between Consistency, Availability, and Partition Tolerance.  
+• NoSQL types: document, key-value, column-family, graph.  
+• Scalability and flexibility of NoSQL databases.  
 
 **SQL Syntax / Commands:**  
-- Not applicable (focus on conceptual understanding).  
+• N/A (Focus on NoSQL concepts).  
 
 **Real-world Use Cases:**  
-- **Document DB (MongoDB):** Content management systems, user profiles.  
-- **Key-Value DB (Redis):** Caching, session storage.  
-- **Column-family DB (Cassandra):** Time-series data, IoT applications.  
-- **Graph DB (Neo4j):** Social networks, fraud detection.  
+• Document stores (e.g., MongoDB) for dynamic schema applications.  
+• Key-value stores (e.g., Redis) for caching and session management.  
 
 **Tools / Tech:**  
-- **MongoDB** (Document)  
-- **Redis** (Key-Value)  
-- **Cassandra** (Column-family)  
-- **Neo4j** (Graph)  
-- **Draw.io** (Diagramming tool)  
+• Draw.io (for creating visual comparisons).  
+• Research materials and case studies.  
 
 **Summary:**  
-NoSQL databases provide flexible, scalable solutions for modern applications where traditional RDBMS may struggle. Understanding their types and use cases is essential for database administrators working with diverse data models.  
+Explored the fundamentals of NoSQL, its types, and its advantages over traditional RDBMS. Created a comparative chart and discussed practical applications, emphasizing scalability and flexibility in modern data management.  
 
-━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━
