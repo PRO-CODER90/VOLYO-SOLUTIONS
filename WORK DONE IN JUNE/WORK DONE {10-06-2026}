@@ -1,0 +1,41 @@
+Here are your formatted DBA internship notes:
+
+📅 Date: 10 June 2026  
+
+━━━━━━━━━━━━━━━━━━━━  
+
+**Day 32: MongoDB – Installation & Basics**  
+
+**Topic:**  
+Introduction to MongoDB, its document-based structure, and BSON format. Installation and initial setup of MongoDB and MongoDB Compass.  
+
+**Learning Objectives:**  
+• Understand MongoDB as a NoSQL database.  
+• Learn about documents, collections, and BSON format.  
+• Install MongoDB and MongoDB Compass for database management.  
+
+**Activities / Deliverables:**  
+• Install MongoDB 7 and MongoDB Compass.  
+• Create a sample database and collection.  
+• Explore basic operations using the MongoDB shell.  
+
+**Important Concepts:**  
+• **Documents:** Data stored in JSON-like format (BSON).  
+• **Collections:** Groups of documents, analogous to tables in SQL.  
+
+**SQL Syntax / Commands:**  
+• `use <database>` – Switch to or create a database.  
+• `db.createCollection("<collection>")` – Create a new collection.  
+
+**Real-world Use Cases:**  
+• Storing unstructured or semi-structured data (e.g., user profiles, logs).  
+• Scalable applications requiring flexible schema design.  
+
+**Tools / Tech:**  
+• MongoDB 7  
+• MongoDB Compass (GUI for MongoDB)  
+
+**Summary:**  
+Today covered MongoDB basics, including installation, document structure, and initial database setup. Hands-on practice included creating databases and collections using both CLI and Compass.  
+
+━━━━━━━━━━━━━━━━━━━━
