@@ -1,0 +1,41 @@
+### 📅 Date: 11 June 2026  
+
+━━━━━━━━━━━━━━━━━━━━  
+
+**Day 33: MongoDB CRUD Operations**  
+
+**Topic:**  
+Detailed explanation of MongoDB CRUD (Create, Read, Update, Delete) operations, including `insertOne/insertMany`, `find`, `updateOne/updateMany`, and `deleteOne`. Covers query operators and practical exercises with 20 student documents.  
+
+**Learning Objectives:**  
+• Understand MongoDB CRUD operations and their syntax.  
+• Learn to insert, query, update, and delete documents efficiently.  
+• Apply query operators for conditional data manipulation.  
+
+**Activities / Deliverables:**  
+• Insert 20 student documents using `insertMany`.  
+• Perform queries with conditions using `find`.  
+• Update and delete documents using `updateOne/updateMany` and `deleteOne`.  
+
+**Important Concepts:**  
+• Atomic operations in MongoDB.  
+• Flexibility of schema-less document storage.  
+
+**SQL Syntax / Commands:**  
+• `db.collection.insertOne({field: value})`  
+• `db.collection.find({condition})`  
+• `db.collection.updateOne({filter}, {$set: {update}})`  
+• `db.collection.deleteOne({condition})`  
+
+**Real-world Use Cases:**  
+• Managing user profiles in web applications.  
+• Logging and analyzing real-time data.  
+
+**Tools / Tech:**  
+• MongoDB 7  
+• MongoDB Compass  
+
+**Summary:**  
+Today covered essential MongoDB CRUD operations, including inserting, querying, updating, and deleting documents. Practical exercises reinforced understanding of conditional queries and atomic updates.  
+
+━━━━━━━━━━━━━━━━━━━━
