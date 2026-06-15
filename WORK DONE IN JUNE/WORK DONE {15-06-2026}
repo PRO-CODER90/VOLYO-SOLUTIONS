@@ -1,0 +1,39 @@
+📅 Date: 15 June 2026  
+
+━━━━━━━━━━━━━━━━━━━━━━  
+
+**Day 36: MongoDB – Indexes**  
+
+**Topic:**  
+Indexes in MongoDB improve query performance by allowing the database to locate documents more efficiently. They function similarly to indexes in books, enabling faster data retrieval. Key operations include creating indexes (`createIndex`) and analyzing query execution plans (`explain()`).  
+
+**Learning Objectives:**  
+• Understand the importance of indexes in MongoDB for query optimization.  
+• Learn to create indexes using `createIndex`.  
+• Use `explain()` to analyze and compare query performance with and without indexes.  
+
+**Activities / Deliverables:**  
+• Create indexes on the `student` collection to optimize queries.  
+• Use `explain()` to compare query execution plans before and after adding indexes.  
+• Document performance improvements observed with indexing.  
+
+**Important Concepts:**  
+• **Single-field vs. Compound Indexes:** Single-field indexes improve queries on one field, while compound indexes optimize queries on multiple fields.  
+• **Query Execution Plan:** The `explain()` method reveals how MongoDB executes a query, helping identify performance bottlenecks.  
+
+**SQL Syntax / Commands:**  
+• `db.collection.createIndex({ field: 1 })` – Creates an ascending index on a field.  
+• `db.collection.find({ field: value }).explain("executionStats")` – Analyzes query performance.  
+
+**Real-world Use Cases:**  
+• Speeding up read-heavy applications (e.g., e-commerce product searches).  
+• Optimizing analytical queries in large datasets (e.g., user activity logs).  
+
+**Tools / Tech:**  
+• MongoDB 7  
+• MongoDB Compass (GUI for index management and query analysis)  
+
+**Summary:**  
+Indexes are critical for optimizing MongoDB query performance. By creating indexes and analyzing execution plans with `explain()`, DBAs can significantly reduce query latency and improve application efficiency.  
+
+━━━━━━━━━━━━━━━━━━━━━━
