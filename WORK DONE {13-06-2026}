@@ -1,0 +1,36 @@
+📅 **Date: 13 June 2026 (Saturday)**
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+**Day 35: MongoDB – Aggregation Basics**
+
+**Topic:**
+MongoDB Aggregation Pipeline and Data Analysis
+
+**Learning Objectives:**
+
+* Understand the concept and purpose of the MongoDB Aggregation Framework
+* Learn how aggregation pipelines process data through multiple stages
+* Explore commonly used aggregation stages such as `$match`, `$group`, `$project`, and `$sort`
+* Understand how to perform data filtering, grouping, and transformation within MongoDB
+* Learn how aggregation can be used to generate reports and summaries from large datasets
+* Develop practical skills in analyzing and presenting data using aggregation pipelines
+
+**Activities / Deliverables:**
+
+* Review the Student Collection created in previous MongoDB exercises
+* Create and execute aggregation pipelines using MongoDB Compass
+* Use the `$match` stage to filter student records based on specific conditions
+* Group students by course using the `$group` stage
+* Calculate average marks, highest marks, and student counts for each course
+* Use the `$project` stage to customize the output fields
+* Apply the `$sort` stage to organize results in ascending or descending order
+* Build a complete aggregation pipeline that groups students by course and calculates average marks
+* Document all aggregation queries, outputs, and observations
+
+**Tools / Tech:**
+
+* MongoDB 7
+* MongoDB Compass
+
+━━━━━━━━━━━━━━━━━━━━━━
