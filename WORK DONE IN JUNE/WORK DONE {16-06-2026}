@@ -1,0 +1,48 @@
+Here are your professional internship notes:
+
+---
+
+📅 Date: 16 June 2026  
+
+━━━━━━━━━━━━━━━━━━━━  
+
+**Day 37: MongoDB Schema Design**  
+
+**Topic:**  
+Understanding schema design in MongoDB, focusing on embedding vs. referencing documents and applying schema design patterns for beginners.  
+
+**Learning Objectives:**  
+• Compare embedding vs. referencing documents for optimal data relationships.  
+• Design schemas for blog posts (embedded comments) and orders (referenced).  
+• Apply schema patterns to real-world scenarios.  
+
+**Activities / Deliverables:**  
+• Design a schema for blog posts with embedded comments.  
+• Create a schema for orders with referenced customer details.  
+• Visualize schema relationships using Draw.io.  
+
+**Important Concepts:**  
+• **Embedding:** Stores related data within a single document (e.g., comments inside a blog post).  
+• **Referencing:** Uses document IDs to link related data (e.g., orders referencing customer IDs).  
+
+**SQL Syntax / Commands:**  
+• `db.createCollection("blog_posts")`  
+• `db.orders.insertOne({ customerId: ObjectId("..."), items: [...] })`  
+
+**Real-world Use Cases:**  
+• Blog platforms (embedded comments for faster reads).  
+• E-commerce systems (referenced orders for scalability).  
+
+**Tools / Tech:**  
+• MongoDB  
+• MongoDB Compass  
+• Draw.io  
+
+**Summary:**  
+Learned to design efficient MongoDB schemas by choosing between embedding and referencing based on use cases. Practiced with blog posts (embedded) and orders (referenced), and visualized schemas using Draw.io.  
+
+━━━━━━━━━━━━━━━━━━━━  
+
+--- 
+
+Let me know if you'd like any refinements!
