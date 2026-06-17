@@ -1,0 +1,38 @@
+📅 Date: 17 June 2026  
+
+━━━━━━━━━━━━━━━━━━━━━━  
+
+**Day 38: MongoDB Compass GUI Deep Dive**  
+
+**Topic:**  
+Exploration of MongoDB Compass for data import/export, schema analysis, and visual query building. Hands-on exercises with CSV datasets.  
+
+**Learning Objectives:**  
+• Import and export data using MongoDB Compass.  
+• Analyze schema structure and data types in MongoDB collections.  
+• Use the visual query builder in Compass to construct queries efficiently.  
+
+**Activities / Deliverables:**  
+• Import a CSV dataset into MongoDB via Compass.  
+• Perform schema analysis to understand field types and distributions.  
+• Export query results for reporting or further processing.  
+
+**Important Concepts:**  
+• Schema flexibility in MongoDB vs. rigid schemas in SQL databases.  
+• The role of BSON (Binary JSON) in MongoDB data storage.  
+
+**SQL Syntax / Commands:**  
+• N/A (MongoDB uses NoSQL query syntax, not SQL.)  
+
+**Real-world Use Cases:**  
+• Migrating CSV-based datasets (e.g., sensor logs, customer records) to MongoDB.  
+• Analyzing schema for data validation before application integration.  
+
+**Tools / Tech:**  
+• MongoDB Compass (GUI tool).  
+• CSV files for data import/export.  
+
+**Summary:**  
+Learned practical techniques for managing data in MongoDB using Compass, including importing CSV files, analyzing schemas, and exporting results. Gained familiarity with NoSQL flexibility and GUI query building.  
+
+━━━━━━━━━━━━━━━━━━━━━━
