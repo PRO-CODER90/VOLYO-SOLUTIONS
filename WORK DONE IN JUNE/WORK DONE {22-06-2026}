@@ -1,0 +1,42 @@
+Here are the formatted internship notes:
+
+📅 Date: 22 June 2026  
+
+━━━━━━━━━━━━━━━━━━━━  
+
+**Day 39: SQL vs NoSQL – When to Use**  
+
+**Topic:**  
+Comparison of SQL (relational) and NoSQL (non-relational) databases, focusing on structured vs. unstructured data, ACID vs. BASE principles, scalability, and real-world applications.  
+
+**Learning Objectives:**  
+• Understand key differences between SQL and NoSQL databases.  
+• Evaluate use cases for structured vs. unstructured data.  
+• Analyze trade-offs between ACID (consistency) and BASE (availability) models.  
+
+**Activities / Deliverables:**  
+• Research and document SQL vs. NoSQL strengths/weaknesses.  
+• Case study: Justify database choice for an e-commerce product catalog.  
+• Prepare a summary report in MS Word.  
+
+**Important Concepts:**  
+• **Structured data:** Fixed schema (e.g., tables in SQL).  
+• **Unstructured data:** Flexible schema (e.g., JSON in NoSQL).  
+• **Scalability:** SQL (vertical) vs. NoSQL (horizontal).  
+
+**SQL Syntax / Commands:**  
+• `CREATE TABLE`, `JOIN`, `SELECT` (SQL).  
+• `db.collection.insert()` (NoSQL, e.g., MongoDB).  
+
+**Real-world Use Cases:**  
+• **SQL:** Banking systems (ACID compliance).  
+• **NoSQL:** Social media feeds (scalability for unstructured data).  
+
+**Tools / Tech:**  
+• SQL: MySQL, PostgreSQL.  
+• NoSQL: MongoDB, Cassandra.  
+
+**Summary:**  
+SQL excels in structured, transactional data, while NoSQL offers flexibility and scalability for unstructured or rapidly evolving datasets. The choice depends on use case requirements.  
+
+━━━━━━━━━━━━━━━━━━━━
