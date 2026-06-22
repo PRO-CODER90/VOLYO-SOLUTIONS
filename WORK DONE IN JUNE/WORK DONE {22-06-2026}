@@ -1,42 +1,49 @@
-Here are the formatted internship notes:
+📅 Date: 22 June 2026
 
-📅 Date: 22 June 2026  
+━━━━━━━━━━━━━━━━━━━━━━
 
-━━━━━━━━━━━━━━━━━━━━  
+Day 40: NoSQL Mini Project – Employee Directory
 
-**Day 39: SQL vs NoSQL – When to Use**  
+Topic:
+Apply MongoDB CRUD operations, queries, and aggregation in a complete small project to build an Employee Directory.
 
-**Topic:**  
-Comparison of SQL (relational) and NoSQL (non-relational) databases, focusing on structured vs. unstructured data, ACID vs. BASE principles, scalability, and real-world applications.  
+Learning Objectives:
 
-**Learning Objectives:**  
-• Understand key differences between SQL and NoSQL databases.  
-• Evaluate use cases for structured vs. unstructured data.  
-• Analyze trade-offs between ACID (consistency) and BASE (availability) models.  
+• Implement MongoDB CRUD operations in a real-world scenario.
+• Use MongoDB queries and aggregation pipelines effectively.
+• Build a functional Employee Directory system using MongoDB.
 
-**Activities / Deliverables:**  
-• Research and document SQL vs. NoSQL strengths/weaknesses.  
-• Case study: Justify database choice for an e-commerce product catalog.  
-• Prepare a summary report in MS Word.  
+Activities / Deliverables:
 
-**Important Concepts:**  
-• **Structured data:** Fixed schema (e.g., tables in SQL).  
-• **Unstructured data:** Flexible schema (e.g., JSON in NoSQL).  
-• **Scalability:** SQL (vertical) vs. NoSQL (horizontal).  
+• Create an Employee Directory database in MongoDB.
+• Perform CRUD operations (insert, update, delete) on employee records.
+• Write queries to filter and sort employee data.
+• Build an aggregation pipeline to group employees by department.
 
-**SQL Syntax / Commands:**  
-• `CREATE TABLE`, `JOIN`, `SELECT` (SQL).  
-• `db.collection.insert()` (NoSQL, e.g., MongoDB).  
+Important Concepts:
 
-**Real-world Use Cases:**  
-• **SQL:** Banking systems (ACID compliance).  
-• **NoSQL:** Social media feeds (scalability for unstructured data).  
+• MongoDB CRUD operations: insertOne, insertMany, find, updateOne, updateMany, deleteOne.
+• Query operators: $eq, $gt, $lt, $in, $and, $or, $not.
+• Aggregation pipeline stages: $match, $group, $project, $sort.
 
-**Tools / Tech:**  
-• SQL: MySQL, PostgreSQL.  
-• NoSQL: MongoDB, Cassandra.  
+SQL Syntax / Commands:
 
-**Summary:**  
-SQL excels in structured, transactional data, while NoSQL offers flexibility and scalability for unstructured or rapidly evolving datasets. The choice depends on use case requirements.  
+• db.collection.insertOne({name: "John", department: "HR"})
+• db.collection.find({department: "HR"}).sort({name: 1})
+• db.collection.aggregate([{$match: {department: "IT"}}, {$group: {_id: "$department", count: {$sum: 1}}}])
 
-━━━━━━━━━━━━━━━━━━━━
+Real-world Use Cases:
+
+• Managing employee records in organizations.
+• Building directory systems for departments or teams.
+• Analyzing workforce distribution across departments.
+
+Tools / Tech:
+
+• MongoDB 7
+• MongoDB Compass
+
+Summary:
+Learned to apply MongoDB CRUD operations, query operators, and aggregation pipelines in a practical project. Built a functional Employee Directory system, demonstrating real-world application of NoSQL databases for managing and analyzing data.
+
+━━━━━━━━━━━━━━━━━━━━━━
