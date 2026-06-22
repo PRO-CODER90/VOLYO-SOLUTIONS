@@ -1,0 +1,55 @@
+📅 **Date: 18 June 2026**
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+**Day 39: SQL vs NoSQL – When to Use What & Introduction to Python Basics**
+
+**Topic:**
+Comparing SQL and NoSQL Databases with Basic Python Programming Concepts
+
+**Learning Objectives:**
+
+### SQL vs NoSQL
+
+* Understand the differences between structured and unstructured data
+* Learn the concepts of ACID and BASE database models
+* Compare scalability, flexibility, and performance characteristics
+* Identify suitable use cases for SQL and NoSQL databases
+* Develop decision-making skills for selecting the right database technology
+
+### Python Basics
+
+* Understand what Python is and why it is widely used
+* Learn Python syntax and basic programming structure
+* Explore variables, data types, operators, and user input
+* Understand conditional statements and loops
+* Learn how Python can be integrated with databases for automation and data processing
+
+**Activities / Deliverables:**
+
+### SQL vs NoSQL Analysis
+
+* Research the key differences between SQL and NoSQL databases
+* Compare relational and non-relational database architectures
+* Create a comparison table covering data structure, scalability, consistency, and performance
+* Analyze an e-commerce product catalogue scenario
+* Justify whether SQL or NoSQL would be a better choice and explain the reasoning
+* Document findings and prepare a short case study report
+
+### Python Basics Practice
+
+* Install Python and verify the development environment
+* Write simple programs using variables and data types
+* Practice input and output operations
+* Create basic programs using if-else conditions and loops
+* Write a small program to manage simple student information
+* Document key Python concepts learned during practice
+
+**Tools / Tech:**
+
+* Research Resources
+* MS Word
+* Python 3
+* VS Code
+
+━━━━━━━━━━━━━━━━━━━━━━
