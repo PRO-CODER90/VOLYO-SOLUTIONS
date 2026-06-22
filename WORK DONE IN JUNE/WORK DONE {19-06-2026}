@@ -1,0 +1,65 @@
+📅 **Date: 19 June 2026**
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+**Day 40: NoSQL Mini Project – Employee Directory & Python Practice**
+
+**Topic:**
+Building an Employee Directory Application using MongoDB and Strengthening Python Programming Skills
+
+**Learning Objectives:**
+
+### MongoDB Project
+
+* Apply MongoDB concepts learned throughout the NoSQL module
+* Reinforce CRUD operations in a real-world project environment
+* Practice designing collections and documents for business applications
+* Learn how aggregation pipelines can be used for reporting and analysis
+* Develop skills in querying, updating, and managing employee data
+
+### Python Programming
+
+* Strengthen understanding of Python fundamentals
+* Practice working with variables, data types, operators, and functions
+* Learn to use lists, dictionaries, and tuples effectively
+* Understand loops, conditional statements, and exception handling
+* Develop problem-solving skills through practical coding exercises
+* Explore basic file handling and data processing in Python
+
+**Activities / Deliverables:**
+
+### Employee Directory Project
+
+* Design the Employee Directory database structure
+* Create an Employee collection with fields such as Employee ID, Name, Department, Designation, Salary, Email, and Joining Date
+* Insert sample employee records into MongoDB
+* Implement complete CRUD operations:
+
+  * Create new employee records
+  * Read and search employee information
+  * Update employee details
+  * Delete employee records when required
+* Write queries to filter employees based on department, designation, and salary range
+* Use aggregation pipelines to:
+
+  * Group employees by department
+  * Calculate average salary per department
+  * Count employees in each department
+  * Generate department-wise summary reports
+* Test all functionalities using MongoDB Compass
+* Document project architecture and query results
+
+### Python Practice
+
+* Create programs using functions and user-defined modules
+* Practice list and dictionary operations with employee-related data
+* Write programs using loops and conditional statements
+
+**Tools / Tech:**
+
+* MongoDB 7
+* MongoDB Compass
+* Python 3
+* VS Code
+
+━━━━━━━━━━━━━━━━━━━━━━
