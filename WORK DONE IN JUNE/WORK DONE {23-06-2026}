@@ -1,0 +1,48 @@
+Here are the formatted internship notes for Day 41:
+
+📅 Date: 23 June 2026  
+
+━━━━━━━━━━━━━━━━━━━━  
+
+**Day 41: Introduction to Server-side Development**  
+
+**Topic:**  
+Understanding the difference between server-side and client-side development, the request-response cycle, and HTTP basics (GET/POST methods).  
+
+**Learning Objectives:**  
+
+• Differentiate between server-side and client-side processing  
+• Explain the HTTP request-response cycle  
+• Identify GET and POST methods in web interactions  
+
+**Activities / Deliverables:**  
+
+• Draw a client-server architecture diagram using Draw.io  
+• Analyze 5 websites to identify server-side vs. client-side components  
+• Research and document common HTTP methods  
+
+**Important Concepts:**  
+
+• Server-side processes execute on the web server  
+• Client-side processes run in the user's browser  
+• GET requests retrieve data, POST requests submit data  
+
+**SQL Syntax / Commands:**  
+
+• Not applicable for this introductory session  
+
+**Real-world Use Cases:**  
+
+• E-commerce sites processing payments (server-side)  
+• Form validations before submission (client-side)  
+
+**Tools / Tech:**  
+
+• Draw.io for architecture diagrams  
+• Web browser developer tools  
+• Postman (for future API testing)  
+
+**Summary:**  
+Today introduced fundamental server-side concepts including the client-server model and HTTP methods. Students practiced visualizing architectures and identifying real-world implementations.  
+
+━━━━━━━━━━━━━━━━━━━━
