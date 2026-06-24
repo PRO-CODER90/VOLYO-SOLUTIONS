@@ -1,39 +1,60 @@
-📅 Date: 22 June 2026  
+📅 **Date: 22 June 2026**
 
-━━━━━━━━━━━━━━━━━━━━━━  
+━━━━━━━━━━━━━━━━━━━━━━
 
-**Day 40: NoSQL Mini Project – Employee Directory**  
+**Day 41: Introduction to Server-side Development & Python Web Programming Basics**
 
-**Topic:**  
-Application of MongoDB CRUD operations, query operators, and aggregation pipelines to build a functional Employee Directory. This project consolidates skills learned during Weeks 7–8, including schema design, indexing, and performance optimization.  
+**Topic:**
+Understanding Client-Server Architecture, HTTP Communication, and Python Fundamentals for Backend Development
 
-**Learning Objectives:**  
-• Implement MongoDB CRUD operations in a real-world scenario.  
-• Apply query operators ($eq, $gt, $sort) and aggregation stages ($match, $group).  
-• Design a scalable schema for an employee management system.  
+**Learning Objectives:**
 
-**Activities / Deliverables:**  
-• Create an Employee Directory database with collections for employees and departments.  
-• Perform CRUD operations (insert, update, delete) on employee records.  
-• Build an aggregation pipeline to analyze data (e.g., average salary by department).  
+### Server-side Development
 
-**Important Concepts:**  
-• **Embedding vs. Referencing:** Decide when to embed (e.g., employee skills) or reference (e.g., department details) documents.  
-• **Indexing:** Use `createIndex()` to optimize queries on frequently accessed fields like `employee_id` or `department`.  
+* Understand the difference between client-side and server-side development
+* Learn how websites process requests and responses
+* Understand the HTTP protocol and common methods such as GET and POST
+* Explore the complete request-response lifecycle
+* Identify server-side and client-side technologies used in modern web applications
+* Learn the role of backend servers in handling data, authentication, and business logic
 
-**SQL Syntax / Commands:**  
-• `db.employees.insertOne({name: "John", role: "Developer"})`  
-• `db.employees.aggregate([{$group: {_id: "$department", avgSalary: {$avg: "$salary"}}}])`  
+### Python for Backend Development
 
-**Real-world Use Cases:**  
-• **HR Systems:** Track employee details, roles, and departmental hierarchies.  
-• **Analytics:** Generate reports on workforce distribution or salary trends.  
+* Understand why Python is widely used for server-side development
+* Learn Python programming concepts used in web applications
+* Practice functions, modules, and package management
+* Understand file handling and exception handling
+* Learn Object-Oriented Programming (OOP) basics
+* Explore Python libraries commonly used in backend development
+* Get introduced to web frameworks such as Flask and Django
 
-**Tools / Tech:**  
-• MongoDB 7  
-• MongoDB Compass (for GUI-based data import/export and query building)  
+**Activities / Deliverables:**
 
-**Summary:**  
-The mini-project reinforced MongoDB’s flexibility for unstructured data, emphasizing schema design, performance tuning, and aggregation for actionable insights.  
+### Server-side Development
+
+* Draw a detailed Client-Server Architecture diagram using Draw.io
+* Illustrate the request-response cycle between browser and server
+* Research five popular websites and identify their client-side and server-side components
+* Compare frontend and backend responsibilities
+* Document the flow of HTTP requests and responses
+* Analyze the usage of GET and POST methods in real-world applications
+
+### Python Practice
+
+* Write Python programs using functions and modules
+* Create programs demonstrating exception handling
+* Practice file reading and writing operations
+* Build simple classes and objects using OOP concepts
+* Create a mini Python application for managing user information
+* Explore Python package installation using pip
+* Write basic scripts that simulate backend processing logic
+* Document program outputs and observations
+
+**Tools / Tech:**
+
+* Python 3
+* VS Code
+* Draw.io
+* Research Resources
 
 ━━━━━━━━━━━━━━━━━━━━━━
