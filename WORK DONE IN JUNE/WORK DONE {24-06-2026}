@@ -1,43 +1,43 @@
-Here are the formatted internship notes based on the provided curriculum:
-
----
-
-📅 Date: Day 42  
+### 📅 Date: 24 June 2026  
 
 ━━━━━━━━━━━━━━━━━━━━  
 
-**Day 42: HTTP Protocol & REST Concepts**  
+**Day 43: Introduction to Python Flask**  
 
 **Topic:**  
-Understanding HTTP methods (GET, POST, PUT, DELETE), status codes, and REST principles. Practical observation of HTTP requests/responses using Postman and browser DevTools.  
+Flask is a lightweight Python web framework used to build web applications quickly and efficiently. Today covers Flask installation, creating a basic "Hello World" app, and running it locally.  
 
 **Learning Objectives:**  
-• Learn core HTTP methods and their purposes.  
-• Understand RESTful architecture and its constraints.  
-• Interpret HTTP status codes for troubleshooting.  
+• Understand what Flask is and its role in web development.  
+• Install Flask and set up a development environment.  
+• Create a simple Flask application with routes.  
+• Run the application locally and view it in a browser.  
 
 **Activities / Deliverables:**  
-• Use Postman to send HTTP requests to public APIs.  
-• Analyze responses using browser DevTools.  
-• Document observed status codes and request/response structures.  
+• Install Flask using pip.  
+• Build a basic Flask app with a "Hello World" route.  
+• Extend the app to include 3 different routes.  
+• Test the app locally using the Flask development server.  
 
 **Important Concepts:**  
-• Statelessness in REST.  
-• Idempotency of HTTP methods (e.g., PUT vs. POST).  
+• **Routing:** Mapping URLs to Python functions.  
+• **Development Server:** Built-in server for testing Flask apps.  
+• **WSGI:** Web Server Gateway Interface (Flask follows this standard).  
 
 **SQL Syntax / Commands:**  
-• Not applicable (focus on HTTP/REST).  
+• Not applicable for this Flask-focused session.  
 
 **Real-world Use Cases:**  
-• Fetching data from a weather API (GET).  
-• Submitting a form to a server (POST).  
-• Updating user profile details (PUT).  
+• Building RESTful APIs for web/mobile apps.  
+• Creating lightweight microservices.  
+• Prototyping web applications quickly.  
 
 **Tools / Tech:**  
-• Postman  
-• Browser DevTools (Network tab)  
+• Python 3  
+• Flask  
+• VS Code (or any code editor)  
 
 **Summary:**  
-Explored HTTP methods, REST principles, and status codes through hands-on API testing. Gained proficiency in debugging requests/responses using Postman and DevTools.  
+Learned the basics of Flask, installed it, and created a simple web app with multiple routes. Practiced running the app locally and understood Flask's role in web development.  
 
 ━━━━━━━━━━━━━━━━━━━━
