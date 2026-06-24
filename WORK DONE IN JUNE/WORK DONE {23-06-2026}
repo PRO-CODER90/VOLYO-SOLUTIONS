@@ -1,48 +1,27 @@
-Here are the formatted internship notes for Day 41:
+📅 **Date: 23 June 2026**
 
-📅 Date: 23 June 2026  
+**Day 42: HTTP Protocol & REST Concepts**
 
-━━━━━━━━━━━━━━━━━━━━  
+**Topic:** HTTP Methods, Status Codes, and REST APIs
 
-**Day 41: Introduction to Server-side Development**  
+**Learning Objectives:**
 
-**Topic:**  
-Understanding the difference between server-side and client-side development, the request-response cycle, and HTTP basics (GET/POST methods).  
+* Understand HTTP methods: GET, POST, PUT, DELETE
+* Learn common status codes (200, 404, 500, etc.)
+* Understand the basics of REST APIs
+* Explore request-response communication
 
-**Learning Objectives:**  
+**Activities / Deliverables:**
 
-• Differentiate between server-side and client-side processing  
-• Explain the HTTP request-response cycle  
-• Identify GET and POST methods in web interactions  
+* Use Browser DevTools to inspect HTTP requests and responses
+* Test public APIs using Postman
+* Observe different HTTP methods and status codes
+* Document findings and API responses
 
-**Activities / Deliverables:**  
+**Tools / Tech:**
 
-• Draw a client-server architecture diagram using Draw.io  
-• Analyze 5 websites to identify server-side vs. client-side components  
-• Research and document common HTTP methods  
+* Postman
+* Browser DevTools
+* Public APIs
 
-**Important Concepts:**  
-
-• Server-side processes execute on the web server  
-• Client-side processes run in the user's browser  
-• GET requests retrieve data, POST requests submit data  
-
-**SQL Syntax / Commands:**  
-
-• Not applicable for this introductory session  
-
-**Real-world Use Cases:**  
-
-• E-commerce sites processing payments (server-side)  
-• Form validations before submission (client-side)  
-
-**Tools / Tech:**  
-
-• Draw.io for architecture diagrams  
-• Web browser developer tools  
-• Postman (for future API testing)  
-
-**Summary:**  
-Today introduced fundamental server-side concepts including the client-server model and HTTP methods. Students practiced visualizing architectures and identifying real-world implementations.  
-
-━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━
