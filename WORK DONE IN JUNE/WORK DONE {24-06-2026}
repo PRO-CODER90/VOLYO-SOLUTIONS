@@ -1,0 +1,43 @@
+Here are the formatted internship notes based on the provided curriculum:
+
+---
+
+📅 Date: Day 42  
+
+━━━━━━━━━━━━━━━━━━━━  
+
+**Day 42: HTTP Protocol & REST Concepts**  
+
+**Topic:**  
+Understanding HTTP methods (GET, POST, PUT, DELETE), status codes, and REST principles. Practical observation of HTTP requests/responses using Postman and browser DevTools.  
+
+**Learning Objectives:**  
+• Learn core HTTP methods and their purposes.  
+• Understand RESTful architecture and its constraints.  
+• Interpret HTTP status codes for troubleshooting.  
+
+**Activities / Deliverables:**  
+• Use Postman to send HTTP requests to public APIs.  
+• Analyze responses using browser DevTools.  
+• Document observed status codes and request/response structures.  
+
+**Important Concepts:**  
+• Statelessness in REST.  
+• Idempotency of HTTP methods (e.g., PUT vs. POST).  
+
+**SQL Syntax / Commands:**  
+• Not applicable (focus on HTTP/REST).  
+
+**Real-world Use Cases:**  
+• Fetching data from a weather API (GET).  
+• Submitting a form to a server (POST).  
+• Updating user profile details (PUT).  
+
+**Tools / Tech:**  
+• Postman  
+• Browser DevTools (Network tab)  
+
+**Summary:**  
+Explored HTTP methods, REST principles, and status codes through hands-on API testing. Gained proficiency in debugging requests/responses using Postman and DevTools.  
+
+━━━━━━━━━━━━━━━━━━━━
