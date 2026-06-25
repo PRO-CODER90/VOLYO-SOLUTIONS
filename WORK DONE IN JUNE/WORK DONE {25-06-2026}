@@ -1,0 +1,41 @@
+📅 Date: 25 June 2026
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Day 44: Flask – Routing & Templates
+
+Topic:  
+Flask routing enables mapping URLs to specific functions, while templates allow dynamic HTML generation using the Jinja2 templating engine. Dynamic routes handle variable URL patterns, and `render_template` integrates Python data with HTML for dynamic web page creation.
+
+Learning Objectives:  
+• Understand URL routing and dynamic routes in Flask.  
+• Learn Jinja2 basics for HTML templating.  
+• Pass data from Python to HTML templates using `render_template`.  
+• Build a multi-page Flask site with navigation.  
+
+Activities / Deliverables:  
+• Create a 4-page Flask site with home, about, contact, and data pages.  
+• Implement dynamic routes for handling variable URL patterns.  
+• Use Jinja2 to render HTML templates with passed data.  
+
+Important Concepts:  
+• URL routing maps URLs to view functions.  
+• Jinja2 templating allows dynamic HTML generation with Python data.  
+
+SQL Syntax / Commands:  
+• N/A (No SQL commands covered in this session.)  
+
+Real-world Use Cases:  
+• Building dynamic websites with Flask for small to medium-sized projects.  
+• Creating reusable templates for consistent UI design across web pages.  
+
+Tools / Tech:  
+• Python  
+• Flask  
+• Jinja2  
+• VS Code  
+
+Summary:  
+Today's session focused on Flask routing and templating, enabling the creation of dynamic web pages. We built a 4-page Flask site, implemented dynamic routes, and used Jinja2 to pass data to HTML templates, enhancing our web development skills.  
+
+━━━━━━━━━━━━━━━━━━━━━━
