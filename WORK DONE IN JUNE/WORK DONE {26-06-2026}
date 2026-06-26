@@ -1,0 +1,46 @@
+### 📅 Date: 26 June 2026  
+
+━━━━━━━━━━━━━━━━━━━━  
+
+**Day 45: Flask – Connecting to MySQL**  
+
+**Topic:**  
+Connecting a Flask application to a MySQL database using the `mysql-connector-python` library. Executing queries from Flask and fetching/displaying data in a web page.  
+
+**Learning Objectives:**  
+
+• Understand how to integrate Flask with MySQL.  
+• Learn to execute SQL queries from a Flask application.  
+• Fetch and display database records in a web interface.  
+
+**Activities / Deliverables:**  
+
+• Set up a Flask app with MySQL connectivity.  
+• Write and execute SQL queries to retrieve employee data.  
+• Display the fetched employee list on a webpage.  
+
+**Important Concepts:**  
+
+• Database connection pooling in Flask.  
+• Secure handling of database credentials.  
+
+**SQL Syntax / Commands:**  
+
+• `SELECT * FROM employees;`  
+• `cursor.execute(query)`  
+
+**Real-world Use Cases:**  
+
+• Building internal dashboards for employee management.  
+• Displaying dynamic data from a database on a company website.  
+
+**Tools / Tech:**  
+
+• Flask  
+• mysql-connector-python  
+• MySQL  
+
+**Summary:**  
+Learned how to connect a Flask application to a MySQL database, execute queries, and display results on a webpage. This is essential for building dynamic web applications that interact with databases.  
+
+━━━━━━━━━━━━━━━━━━━━
