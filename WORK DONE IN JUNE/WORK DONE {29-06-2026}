@@ -1,0 +1,32 @@
+📅 **Date: 29 June 2026**
+
+**Day 46: Flask – Full CRUD Web App with MySQL**
+
+**Topic:** Building a Full CRUD Web Application Using Flask and MySQL
+
+**Learning Objectives:**
+
+* Understand form handling in Flask
+* Learn GET and POST request processing
+* Implement Create, Read, Update, and Delete (CRUD) operations
+* Connect Flask with MySQL for data management
+* Display database records using HTML templates
+
+**Activities / Deliverables:**
+
+* Create an Employee Management web application
+* Design HTML forms for adding and updating employee records
+* Implement all CRUD operations using Flask and MySQL
+* Display employee data on web pages using Jinja2 templates
+* Test all functionalities and verify database updates
+
+**Tools / Tech:**
+
+* Python 3
+* Flask
+* MySQL
+* HTML
+* MySQL Workbench
+* VS Code
+
+━━━━━━━━━━━━━━━━━━━━━━
