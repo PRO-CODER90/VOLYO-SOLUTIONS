@@ -1,0 +1,30 @@
+📅 **Date: 30 June 2026**
+
+**Day 47: REST API Concepts – Design Principles**
+
+**Topic:** Designing REST APIs Using Resources, Endpoints, and HTTP Methods
+
+**Learning Objectives:**
+
+* Understand REST API design principles
+* Learn about resources and endpoints
+* Understand stateless communication
+* Use HTTP methods (GET, POST, PUT, DELETE) for CRUD operations
+* Learn how JSON is used for request and response data
+
+**Activities / Deliverables:**
+
+* Design a REST API specification for a Student Portal
+* Define API endpoints and HTTP methods
+* Create sample JSON request and response payloads
+* Document CRUD operations for student records
+* Review the API design for consistency and usability
+
+**Tools / Tech:**
+
+* Postman
+* Google Docs / Paper
+* Python 3 (API concepts)
+* VS Code
+
+━━━━━━━━━━━━━━━━━━━━━━
