@@ -1,0 +1,30 @@
+📅 **Date: 16 July 2026**
+
+**Day 59: Capstone – Server-side Pagination & API Module Integration**
+
+**Topic:** Optimizing Application Performance with Server-side Pagination and API-Based Data Integration
+
+**Learning Objectives:**
+
+* Understand the advantages of server-side pagination over client-side pagination
+* Learn how to fetch and display data through REST APIs
+* Integrate external API data into a Flask web application
+* Improve application performance and scalability
+* Verify seamless communication between the frontend and backend
+
+**Activities / Deliverables:**
+
+* Replaced client-side pagination with **server-side pagination** to improve performance when handling large datasets
+* Developed and integrated a new module that retrieves data from a REST API
+* Displayed API data dynamically within the Flask application
+* Verified that API requests and responses were functioning correctly
+* Tested pagination functionality across multiple pages and datasets
+* Performed application testing to ensure smooth operation after the new implementation
+* Fixed minor issues encountered during integration and validated the final output
+
+**Tools / Tech:**
+
+* Python 3
+* Flask
+* HTML
+* VS Code

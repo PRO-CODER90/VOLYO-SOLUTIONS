@@ -1,0 +1,31 @@
+📅 **Date: 21 July 2026**
+
+**Day 62: Capstone – API Integration for Attendance & Courses**
+
+**Topic:** Integrating REST APIs into Attendance and Courses Modules with Bug Fixes
+
+**Learning Objectives:**
+
+* Integrate REST APIs into application modules
+* Display dynamic data retrieved from APIs
+* Improve data synchronization between the frontend and backend
+* Identify and resolve application bugs
+* Ensure reliable functionality through testing
+
+**Activities / Deliverables:**
+
+* Integrated API-based data into the **Attendance** and **Courses** pages
+* Connected both modules to fetch and display data dynamically from the API
+* Verified API responses and ensured accurate data presentation
+* Fixed bugs related to API integration and application functionality
+* Tested both modules to ensure proper performance and data consistency
+* Performed overall application testing to validate the latest updates
+
+**Tools / Tech:**
+
+* Python 3
+* Flask
+* HTML
+* CSS
+* REST API
+* VS Code

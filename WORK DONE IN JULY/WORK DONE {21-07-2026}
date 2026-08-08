@@ -1,0 +1,27 @@
+📅 **Date: 29 July 2026**
+
+**Day 67: SQL Revision – DDL (CREATE / ALTER / DROP)**
+
+**Topic:** Revising SQL Data Definition Language (DDL) Commands
+
+**Learning Objectives:**
+
+* Revise SQL DDL concepts and syntax
+* Understand the purpose of `CREATE`, `ALTER`, and `DROP` commands
+* Learn how to define and modify database objects
+* Practice managing database schemas and tables
+* Strengthen SQL fundamentals through hands-on exercises
+
+**Activities / Deliverables:**
+
+* Revised the `CREATE`, `ALTER`, and `DROP` SQL commands
+* Practiced creating databases and tables with different constraints
+* Modified existing table structures using the `ALTER` command
+* Deleted unnecessary database objects using the `DROP` command
+* Executed multiple DDL queries to reinforce understanding
+* Reviewed SQL syntax and verified results using MySQL Workbench
+
+**Tools / Tech:**
+
+* MySQL 8
+* MySQL Workbench

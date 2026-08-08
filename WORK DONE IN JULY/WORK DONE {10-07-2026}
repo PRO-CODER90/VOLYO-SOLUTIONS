@@ -1,0 +1,32 @@
+📅 **Date: 2 July 2026**
+
+**Day 49: REST API – PUT, DELETE & Error Handling**
+
+**Topic:** Updating, Deleting Resources, and Handling API Errors
+
+**Learning Objectives:**
+
+* Understand PUT and DELETE HTTP methods
+* Learn to update and delete records using REST APIs
+* Implement proper HTTP status codes in responses
+* Handle common API errors and exceptions
+* Improve API reliability and usability
+
+**Activities / Deliverables:**
+
+* Implement PUT endpoint to update student records
+* Implement DELETE endpoint to remove student records
+* Return appropriate HTTP status codes (200, 201, 400, 404, 500)
+* Handle invalid requests and missing data
+* Test all endpoints using Postman
+* Verify database changes in MySQL
+
+**Tools / Tech:**
+
+* Python 3
+* Flask
+* Postman
+* MySQL
+* VS Code
+
+━━━━━━━━━━━━━━━━━━━━━━

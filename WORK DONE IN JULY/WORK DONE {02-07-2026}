@@ -1,0 +1,29 @@
+📅 **Date: 10 July 2026**
+
+**Day 55: Capstone – Build CRUD Web Pages**
+
+**Topic:** Building CRUD Web Pages Using Flask and Jinja2
+
+**Learning Objectives:**
+
+* Understand CRUD operations in Flask
+* Create routes for web pages
+* Handle forms using Flask
+* Use Jinja2 templates for dynamic pages
+* Integrate CRUD operations with MySQL
+
+**Activities / Deliverables:**
+
+* Build CRUD pages for **Students**, **Courses**, and **Enrollments**
+* Create forms for adding and updating records
+* Display records using Jinja2 templates
+* Implement edit and delete functionality
+* Test all CRUD operations and verify database updates
+
+**Tools / Tech:**
+
+* Python 3
+* Flask
+* MySQL
+* Jinja2
+* VS Code

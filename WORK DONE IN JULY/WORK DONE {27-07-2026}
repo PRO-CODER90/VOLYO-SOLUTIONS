@@ -1,0 +1,28 @@
+📅 **Date: 7 July 2026**
+
+**Day 52: Capstone – ER Diagram & Schema Design**
+
+**Topic:** Designing the ER Diagram and Database Schema
+
+**Learning Objectives:**
+
+* Understand ER diagram design concepts
+* Identify entities, attributes, and relationships
+* Design a complete database schema
+* Define primary and foreign keys
+* Prepare the schema for implementation
+
+**Activities / Deliverables:**
+
+* Design the complete ER diagram for the **Volyo Student Portal**
+* Identify all entities, attributes, and relationships
+* Define primary and foreign key constraints
+* Create the database schema in MySQL Workbench
+* Review and get the ER diagram approved by the mentor
+
+**Tools / Tech:**
+
+* Draw.io
+* MySQL Workbench
+
+━━━━━━━━━━━━━━━━━━━━━━

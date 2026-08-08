@@ -1,0 +1,31 @@
+📅 **Date: 1 July 2026**
+
+**Day 48: Building a Simple REST API with Flask**
+
+**Topic:** Creating REST API Endpoints Using Flask
+
+**Learning Objectives:**
+
+* Understand `jsonify` and `request.json` in Flask
+* Build REST API endpoints using Flask
+* Implement GET and POST methods
+* Connect REST APIs with MySQL
+* Test APIs using Postman
+
+**Activities / Deliverables:**
+
+* Create a `/students` GET endpoint to retrieve all student records
+* Create a `/students` POST endpoint to add a new student
+* Connect the API with the MySQL database
+* Return responses in JSON format
+* Test all endpoints using Postman and verify results
+
+**Tools / Tech:**
+
+* Python 3
+* Flask
+* Postman
+* MySQL
+* VS Code
+
+━━━━━━━━━━━━━━━━━━━━━━

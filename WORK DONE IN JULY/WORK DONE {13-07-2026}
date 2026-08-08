@@ -1,0 +1,31 @@
+📅 **Date: 20 July 2026**
+
+**Day 61: Capstone – API Integration & Module Enhancement**
+
+**Topic:** Integrating API Data into Faculty and Department Modules with Bug Fixes
+
+**Learning Objectives:**
+
+* Integrate REST APIs into multiple application modules
+* Display dynamic data fetched from APIs
+* Improve backend and frontend communication
+* Identify and resolve application bugs
+* Ensure smooth functionality across all modules
+
+**Activities / Deliverables:**
+
+* Integrated API-based data into the **Faculty** and **Department** pages
+* Connected both modules to fetch and display data dynamically from the API
+* Verified successful API requests and responses
+* Tested data rendering and ensured accurate information was displayed
+* Fixed bugs encountered during API integration
+* Performed functional testing to validate the overall web application after the updates
+
+**Tools / Tech:**
+
+* Python 3
+* Flask
+* HTML
+* CSS
+* REST API
+* VS Code

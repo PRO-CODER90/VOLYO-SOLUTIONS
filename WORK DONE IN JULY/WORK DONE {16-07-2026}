@@ -1,0 +1,30 @@
+📅 **Date: 24 July 2026**
+
+**Day 64: Capstone – Bug Fixing & Project Improvements**
+
+**Topic:** Enhancing the Web Application through Bug Fixes and Performance Improvements
+
+**Learning Objectives:**
+
+* Identify and resolve application bugs
+* Improve the overall functionality of the project
+* Enhance application performance and user experience
+* Ensure stability through comprehensive testing
+* Refine existing features for better usability
+
+**Activities / Deliverables:**
+
+* Fixed multiple bugs identified during project development
+* Improved existing features and overall project functionality
+* Optimized application performance and responsiveness
+* Refined UI elements for a better user experience
+* Performed testing to verify that all modules were working correctly after the improvements
+* Documented the changes and validated the final application
+
+**Tools / Tech:**
+
+* Python 3
+* Flask
+* HTML
+* CSS
+* VS Code

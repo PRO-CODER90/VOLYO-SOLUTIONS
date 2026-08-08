@@ -1,0 +1,31 @@
+📅 **Date: 17 July 2026**
+
+**Day 60: Capstone – Project Enhancement, API Optimization & UI Improvements**
+
+**Topic:** Enhancing the Flask Web Application through API Optimization, UI Refinements, and Comprehensive Testing
+
+**Learning Objectives:**
+
+* Optimize existing API functionality
+* Improve the user interface with CSS enhancements
+* Expand the database with additional sample data
+* Identify and resolve application bugs
+* Ensure application stability through end-to-end testing
+
+**Activities / Deliverables:**
+
+* Improved existing API functionality for better performance and reliability
+* Fixed multiple bugs identified during project testing
+* Enhanced the application's user interface by refining CSS styling
+* Inserted additional data into database tables for better testing and demonstration
+* Tested all modules, CRUD operations, and API integrations
+* Verified data consistency, application responsiveness, and overall functionality
+* Documented improvements and confirmed that the web application was functioning as expected
+
+**Tools / Tech:**
+
+* Python 3
+* Flask
+* HTML
+* CSS
+* VS Code

@@ -1,0 +1,34 @@
+📅 **Date: 3 July 2026**
+
+**Day 50: Flask + MongoDB REST API**
+
+**Topic:** Building REST APIs with Flask and MongoDB using PyMongo
+
+**Learning Objectives:**
+
+* Understand how Flask connects to MongoDB using PyMongo
+* Learn to build document-based REST APIs
+* Perform CRUD operations on MongoDB documents
+* Return JSON responses from API endpoints
+* Test APIs using Postman
+
+**Activities / Deliverables:**
+
+* Install and configure PyMongo
+* Connect a Flask application to MongoDB
+* Create a `/products` REST API
+* Implement GET, POST, PUT, and DELETE operations
+* Test all endpoints using Postman
+* Verify changes in MongoDB Compass
+
+**Tools / Tech:**
+
+* Python 3
+* Flask
+* PyMongo
+* MongoDB
+* MongoDB Compass
+* Postman
+* VS Code
+
+━━━━━━━━━━━━━━━━━━━━━━

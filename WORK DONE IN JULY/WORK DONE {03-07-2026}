@@ -1,0 +1,29 @@
+📅 **Date: 13 July 2026**
+
+**Day 56: Capstone – REST API Endpoints**
+
+**Topic:** Building REST API Endpoints for the Flask Application
+
+**Learning Objectives:**
+
+* Understand REST API integration with Flask
+* Create JSON-based API endpoints
+* Implement CRUD operations using REST APIs
+* Return appropriate HTTP status codes
+* Document API endpoints
+
+**Activities / Deliverables:**
+
+* Build 8 or more REST API endpoints
+* Implement GET, POST, PUT, and DELETE operations
+* Return JSON responses with proper status codes
+* Test all endpoints using Postman
+* Document the endpoint list and API responses
+
+**Tools / Tech:**
+
+* Python 3
+* Flask
+* Postman
+* MySQL
+* VS Code

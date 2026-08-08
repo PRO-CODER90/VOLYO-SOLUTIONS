@@ -1,0 +1,27 @@
+📅 **Date: 30 July 2026**
+
+**Day 68: SQL Revision – DML & DQL**
+
+**Topic:** Revising SQL Data Manipulation Language (DML) and Data Query Language (DQL)
+
+**Learning Objectives:**
+
+* Revise SQL DML commands: `INSERT`, `UPDATE`, and `DELETE`
+* Practice inserting, updating, and deleting records safely
+* Strengthen SQL querying skills using `SELECT` and filtering clauses
+* Understand data retrieval using conditions and sorting
+* Improve SQL syntax and query-writing proficiency
+
+**Activities / Deliverables:**
+
+* Revised `INSERT`, `UPDATE`, and `DELETE` commands with practical examples
+* Populated database tables with sample data and verified the results
+* Practiced writing DML statements with different conditions
+* Revised `SELECT` queries using `WHERE`, `AND`, `OR`, `NOT`, `BETWEEN`, `IN`, `LIKE`, `ORDER BY`, `LIMIT`, and `DISTINCT`
+* Solved multiple SQL queries to strengthen data retrieval and filtering concepts
+* Verified all outputs using `SELECT` statements in MySQL Workbench
+
+**Tools / Tech:**
+
+* MySQL 8
+* MySQL Workbench

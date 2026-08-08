@@ -1,0 +1,29 @@
+📅 **Date: 15 July 2026**
+
+**Day 58: Capstone – Advanced Bug Fixing & Web Application Enhancements**
+
+**Topic:** Improving the Flask Web Application with API Integration, Pagination, UI Enhancements, and Comprehensive Testing
+
+**Learning Objectives:**
+
+* Understand API integration within the Flask application
+* Learn to implement pagination for efficient data display
+* Improve user experience by adding interactive popup messages
+* Identify and resolve application bugs
+* Perform comprehensive testing to ensure application stability
+
+**Activities / Deliverables:**
+
+* Integrated and tested API functionality within the web application
+* Implemented pagination for displaying large datasets efficiently
+* Added popup notifications for user actions and system responses
+* Fixed multiple bugs related to application functionality and UI behavior
+* Tested all web pages, forms, and CRUD operations
+* Verified API endpoints and ensured proper application performance
+* Documented improvements and confirmed successful functionality after bug fixes
+
+**Tools / Tech:**
+
+* Python 3
+* Flask
+* VS Code
